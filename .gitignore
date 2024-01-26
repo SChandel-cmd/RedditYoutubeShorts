@@ -1,0 +1,14 @@
+__pycache__/*
+BackgroundMusic/*
+BackgroundVideos/*
+OutputVideos/*
+Screenshots/*
+Voiceovers/*
+Lib/*
+Scripts/*
+metadata.json
+pyvenv.cfg
+client_secrets.json
+geckodriver.log
+config.ini
+client_secret_106078634806-g7i88r8viqthjvdnoqbpg5blpodpgefu.apps.googleusercontent.com.json
